@@ -1,5 +1,4 @@
-# Project CSCI 3308
-## BuFfBoX
+# BuFfBoX
 ### Server/NAS storage Implementation
 The project focuses on the realization of an economic Raspberry Pi (RPi) server/NAS storage. Our goals are to:
 * configure a web interface;
